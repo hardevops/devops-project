@@ -69,15 +69,14 @@
 <repository>
 <id>package</id>
 <url>
-http://3.108.221.19:8081/repository/package/
+http://52.66.114.15:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
 <id>snapshots</id>
 <url>
-http://3.108.221.19:8081/repository/snapshot/
+http://52.66.114.15:8081/repository/snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
-
 </project>
